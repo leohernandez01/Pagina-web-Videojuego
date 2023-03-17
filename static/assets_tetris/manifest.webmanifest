@@ -4,7 +4,7 @@
   "id": "com.example.tetris",
   "description": "",
   "orientation": "landscape",
-  "start_url": "templates/game.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "black",
   "categories": ["games", "entertainment"],

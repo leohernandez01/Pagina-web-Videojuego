@@ -7,7 +7,7 @@ def home():
 
 @app.route("/game")
 def game():
-  return render_template('game.html')
+  return render_template('game_page.html')
 
 if __name__ == "__main__":
   app.run(debug=True)
